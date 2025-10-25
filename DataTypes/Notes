@@ -1,0 +1,12 @@
+Disctionary stored the value in key and Value Format
+
+Where
+Key is Unique
+and Value may not Unique
+
+Agree ?
+
+List = []
+Set  = {}
+Tuple = ()
+Dictionary = {:}
